@@ -11,7 +11,7 @@ The application addresses the common challenge of managing events across differe
 ## Features and Capabilities
 
 ### Event Management System
-The core functionality revolves around comprehensive event management with full CRUD (Create, Read, Update, Delete) operations[1]. Users can create events with detailed information including titles, start and end times, descriptions, and most importantly, criticality levels that determine visual representation and analytical categorization. The system supports five distinct criticality levels: RED for very critical events, ORANGE for potentially critical situations, YELLOW for suspicious activities, LIGHT GREEN for good status indicators, and BLUE for great milestones.
+The core functionality revolves around comprehensive event management with full CRUD (Create, Read, Update, Delete) operations. Users can create events with detailed information including titles, start and end times, descriptions, and most importantly, criticality levels that determine visual representation and analytical categorization. The system supports five distinct criticality levels: RED for very critical events, ORANGE for potentially critical situations, YELLOW for suspicious activities, LIGHT GREEN for good status indicators, and BLUE for great milestones.
 
 ### Interactive Calendar Interface
 The application features a sophisticated calendar interface built with FullCalendar integration, providing users with an intuitive way to visualize and interact with their events. The calendar displays events with color-coded backgrounds corresponding to their criticality levels, making it easy to identify urgent matters at a glance. Users can click on events to view details, edit information, or delete entries directly from the calendar view.
